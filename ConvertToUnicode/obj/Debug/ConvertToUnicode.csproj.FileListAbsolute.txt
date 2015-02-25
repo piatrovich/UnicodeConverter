@@ -1,0 +1,9 @@
+D:\DEV\NET\C#\gui\ConvertToUnicode\ConvertToUnicode\ConvertToUnicode\bin\Debug\ConvertToUnicode.exe.config
+D:\DEV\NET\C#\gui\ConvertToUnicode\ConvertToUnicode\ConvertToUnicode\bin\Debug\ConvertToUnicode.exe
+D:\DEV\NET\C#\gui\ConvertToUnicode\ConvertToUnicode\ConvertToUnicode\bin\Debug\ConvertToUnicode.pdb
+D:\DEV\NET\C#\gui\ConvertToUnicode\ConvertToUnicode\ConvertToUnicode\obj\Debug\ConvertToUnicode.csprojResolveAssemblyReference.cache
+D:\DEV\NET\C#\gui\ConvertToUnicode\ConvertToUnicode\ConvertToUnicode\obj\Debug\ConvertToUnicode.converter.resources
+D:\DEV\NET\C#\gui\ConvertToUnicode\ConvertToUnicode\ConvertToUnicode\obj\Debug\ConvertToUnicode.Properties.Resources.resources
+D:\DEV\NET\C#\gui\ConvertToUnicode\ConvertToUnicode\ConvertToUnicode\obj\Debug\ConvertToUnicode.csproj.GenerateResource.Cache
+D:\DEV\NET\C#\gui\ConvertToUnicode\ConvertToUnicode\ConvertToUnicode\obj\Debug\ConvertToUnicode.exe
+D:\DEV\NET\C#\gui\ConvertToUnicode\ConvertToUnicode\ConvertToUnicode\obj\Debug\ConvertToUnicode.pdb
